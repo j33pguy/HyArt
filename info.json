@@ -1,0 +1,9 @@
+{
+  "name": "HyArt",
+  "version": "0.1.0",
+  "title": "Hy-speed Artilery Mod",
+  "author": "j33pguy",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1"],
+  "description": "just a mod to make arty shells sit on the ground a bit longer,requested by hy-speed ;)"
+}
