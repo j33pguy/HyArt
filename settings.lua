@@ -11,8 +11,8 @@ data:extend {
     {
         type = "int-setting",
         name = "artillery-shell-particle-life-time",
-        -- setting_type = "runtime-global",
-        setting_type = "runtime-per-user", -- trying to get this to run as a per-user setting
+        setting_type = "runtime-global",
+        -- setting_type = "runtime-per-user", -- trying to get this to run as a per-user setting
 
 
          -- Potential slider or user input????
